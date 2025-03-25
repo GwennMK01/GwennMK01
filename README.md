@@ -15,6 +15,6 @@ Here are some of the projects I've worked on:
 - 📚 **Manga Library Management System** – A PHP-based database project.
 
 ## 📫 Contact Me
-- LinkedIn: https://www.linkedin.com/in/gwennmeku(#)
-- Email: gwenn.meku-kengne@epita.fr(#)
+- LinkedIn: https://www.linkedin.com/in/gwennmeku
+- Email: gwenn.meku-kengne@epita.fr
 - GitHub: [@GwennMK01]https://github.com/GwennMK01
