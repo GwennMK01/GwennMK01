@@ -10,11 +10,10 @@ I'm a passionate IT student specializing in cybersecurity. Currently, I'm pursui
 
 ## 🚀 Projects
 Here are some of the projects I've worked on:
-- 🎴 **Card Game in C++** – OOP-based game where the deck distributes the cards.
-- 🔐 **Secure Access Control System** – Managed the motor control in C++ while integrating an RFID authentication system.
-- 📚 **Manga Library Management System** – A PHP-based database project.
+-Password Strength Analyzer
+-Secure Password Generator
 
 ## 📫 Contact Me
 - LinkedIn: https://www.linkedin.com/in/gwennmeku
 - Email: gwenn.meku-kengne@epita.fr
-- GitHub: [@GwennMK01]https://github.com/GwennMK01
+- GitHub:https://github.com/GwennMK01
