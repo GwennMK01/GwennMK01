@@ -10,8 +10,9 @@ I'm a passionate IT student specializing in cybersecurity. Currently, I'm pursui
 
 ## 🚀 Projects
 Here are some of the projects I've worked on:
--Password Strength Analyzer
--Secure Password Generator
+
+-**Password Strength Analyzer**
+-**Secure Password Generator**
 
 ## 📫 Contact Me
 - LinkedIn: https://www.linkedin.com/in/gwennmeku
